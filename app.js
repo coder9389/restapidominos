@@ -2,7 +2,7 @@ const express=require("express");
 const app=express();
 const product=require("./Routes/product");
 const connectdb = require("./DB/connect");
-
+const {URL}=process.env;
 const port=process.env.port || 3000;
 app.get("/",(req,res)=>{
     res.send("connection established");
@@ -15,7 +15,7 @@ const start=async()=>{
             console.log(`${port} server is live `);
             app.use("/api/products",product);
         });
-         await connectdb();
+         await connectdb(URL);
     }
     catch(error){
         console.log(error);
