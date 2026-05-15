@@ -1,0 +1,211 @@
+[
+  {
+    "id": 2265199,
+    "englishName": "Chicken Tikka - XL",
+    "arabicName": "دجاج تكا - العملاقة",
+    "englishDescription": "Pizza Sauce, Mozzarella, Chicken Tikka, Onions, Green Peppers with Mint Sauce.",
+    "arabicDescription": "صلصة البيتزا، وموزاريلا، ودجاج التكا، وبصل، وفلفل أخضر، مع صوص النعناع",
+    "price": 69,
+    "sortOrder": 1,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/1732198359_1720519404ChickenTikka.jpg",
+    "choiceCategories": []
+  },
+  {
+    "id": 2265200,
+    "englishName": "Chicken Tikka - Large",
+    "arabicName": "دجاج تكا - كبير",
+    "englishDescription": "Pizza Sauce, Mozzarella, Chicken Tikka, Onions, Green Peppers with Mint Sauce.",
+    "arabicDescription": "صلصة البيتزا، وموزاريلا، ودجاج التكا، وبصل، وفلفل أخضر، مع صوص النعناع",
+    "price": 59,
+    "sortOrder": 2,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/1732198403_1720519404ChickenTikka.jpg",
+    "choiceCategories": [
+      {
+        "id": 296043,
+        "englishName": "Choose Your Crust For Large Pizza",
+        "arabicName": "اختر القشرة المناسبة لك للبيتزا الكبيرة",
+        "minimumSelections": 1,
+        "maximumSelections": 1,
+        "sortOrder": 1,
+        "choices": [
+          {
+            "id": 2360728,
+            "englishName": "Hand Tossed",
+            "arabicName": "ومن ناحية قذف",
+            "price": 0,
+            "sortOrder": 1,
+            "available": true,
+            "isAvailable": true
+          },
+          {
+            "id": 2360729,
+            "englishName": "Thin Crust",
+            "arabicName": "قشرة رقيقة",
+            "price": 4,
+            "sortOrder": 2,
+            "available": true,
+            "isAvailable": true
+          },
+          {
+            "id": 2360730,
+            "englishName": "Cheese Burst",
+            "arabicName": "جبنة إضافية",
+            "price": 8,
+            "sortOrder": 3,
+            "available": true,
+            "isAvailable": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2265201,
+    "englishName": "Extravaganzza - XL",
+    "arabicName": "الروعة - العملاقة",
+    "englishDescription": "Pizza Sauce, Mozzarella, Beef Pepperoni, Onions, Green Peppers, Mushrooms, Black Olives, Beef, Italian Sausage & Extra Mozzarella.",
+    "arabicDescription": "صلصة البيتزا، وموزاريلا، وبيبروني بقري، وبصل، وفلفل أخضر، وفطر، وزيتون أسود، ولحم بقري، وسجق إيطالي",
+    "price": 72,
+    "sortOrder": 3,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/1732198456_1720519462Extravaganzza.jpg",
+    "choiceCategories": []
+  },
+  {
+    "id": 2265202,
+    "englishName": "Veggie Paradise - Medium",
+    "arabicName": "جنة الخضار - وسط",
+    "englishDescription": "Golden Corn, Black Olives, Capsicum, Mushrooms & Mozzarella.",
+    "arabicDescription": "ذرة ذهبية، زيتون أسود، فلفل أخضر، فطر وموزاريلا",
+    "price": 49,
+    "sortOrder": 4,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/veggie.jpg",
+    "choiceCategories": []
+  },
+  {
+    "id": 2265203,
+    "englishName": "Pepperoni Feast - Large",
+    "arabicName": "وليمة البيبروني - كبير",
+    "englishDescription": "Loaded with Beef Pepperoni & Cheese.",
+    "arabicDescription": "محملة ببيبروني اللحم والجبنة",
+    "price": 65,
+    "sortOrder": 5,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/pepperoni.jpg",
+    "choiceCategories": [
+      {
+        "id": 296050,
+        "englishName": "Extra Cheese Options",
+        "arabicName": "خيارات الجبن الإضافية",
+        "minimumSelections": 0,
+        "maximumSelections": 2,
+        "sortOrder": 1,
+        "choices": [
+          {
+            "id": 2360800,
+            "englishName": "Extra Mozzarella",
+            "arabicName": "موزاريلا إضافية",
+            "price": 6,
+            "sortOrder": 1,
+            "available": true,
+            "isAvailable": true
+          },
+          {
+            "id": 2360801,
+            "englishName": "Cheddar Cheese",
+            "arabicName": "جبنة شيدر",
+            "price": 5,
+            "sortOrder": 2,
+            "available": true,
+            "isAvailable": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2265204,
+    "englishName": "Farmhouse - Medium",
+    "arabicName": "فارم هاوس - وسط",
+    "englishDescription": "Fresh tomatoes, onions, capsicum and mushrooms.",
+    "arabicDescription": "طماطم طازجة، بصل، فلفل أخضر وفطر",
+    "price": 55,
+    "sortOrder": 6,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/farmhouse.jpg",
+    "choiceCategories": []
+  },
+  {
+    "id": 2265205,
+    "englishName": "Mexican Green Wave",
+    "arabicName": "الموجة المكسيكية الخضراء",
+    "englishDescription": "Mexican herbs with onion, capsicum, tomatoes & jalapenos.",
+    "arabicDescription": "أعشاب مكسيكية مع بصل وفلفل أخضر وطماطم وهالبينو",
+    "price": 61,
+    "sortOrder": 7,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/mexican.jpg",
+    "choiceCategories": []
+  },
+  {
+    "id": 2265206,
+    "englishName": "Cheese Burst Supreme",
+    "arabicName": "جبنة فائقة",
+    "englishDescription": "Loaded with molten cheese and toppings.",
+    "arabicDescription": "محملة بالجبنة الذائبة والإضافات",
+    "price": 75,
+    "sortOrder": 8,
+    "available": true,
+    "isAvailable": true,
+    "ImageURL": "https://assets.limetray.com/assets/user_images/menus/compressed/cheeseburst.jpg",
+    "choiceCategories": [
+      {
+        "id": 296060,
+        "englishName": "Choose Spice Level",
+        "arabicName": "اختر مستوى التوابل",
+        "minimumSelections": 1,
+        "maximumSelections": 1,
+        "sortOrder": 1,
+        "choices": [
+          {
+            "id": 2360900,
+            "englishName": "Mild",
+            "arabicName": "خفيف",
+            "price": 0,
+            "sortOrder": 1,
+            "available": true,
+            "isAvailable": true
+          },
+          {
+            "id": 2360901,
+            "englishName": "Medium",
+            "arabicName": "متوسط",
+            "price": 0,
+            "sortOrder": 2,
+            "available": true,
+            "isAvailable": true
+          },
+          {
+            "id": 2360902,
+            "englishName": "Hot",
+            "arabicName": "حار",
+            "price": 2,
+            "sortOrder": 3,
+            "available": true,
+            "isAvailable": true
+          }
+        ]
+      }
+    ]
+  }
+]
